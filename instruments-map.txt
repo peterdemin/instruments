@@ -1,0 +1,31 @@
+ubuntu
+	nginx
+	debhelper
+	bash
+	python
+		flask
+			jinja2
+			babel
+		eve
+		sqlalchemy
+			alembic
+		sentry
+		celery
+		pymongo
+		scikit-learn
+		wtforms
+		cerberus
+	mysql
+	mongodb
+	git
+	ssh
+	uwsgi
+	npm
+		grunt
+			less
+			coffeescript
+				jquery
+				underscore
+				mustache
+				backbone
+	twitter bootstrap
